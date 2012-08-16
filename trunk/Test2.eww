@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\..\blinky\blinky.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\uart_echo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\uart_echo\uart_echo.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
